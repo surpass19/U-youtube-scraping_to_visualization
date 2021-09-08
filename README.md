@@ -1,6 +1,8 @@
 # U-youtube-scraping_to_visualization
 Scrapoo
-https://www.youtube.com/channel/UClcvOXd_BK9XkAxgGlOI6gQ/playlists
+https://www.youtube.com/channel/UClcvOXd_BK9XkAxgGlOI6gQ/playlists <br>
+
+☆visualizing.ipynb <br>
 
 # 学んだこと
 * スクレイピング
